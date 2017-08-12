@@ -1,4 +1,4 @@
-Women's football
+Women's Football
 
 This repository shares GPS and heart rate data files collected from training and competition for a women's football team.
 
