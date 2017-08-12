@@ -7,8 +7,11 @@ There are 63 columns in each of the data files. Players are identified with an a
 The columns in the data files have these headings:
 
 Date	
+
 Drill	
-Athlete Identifier	
+
+Athlete Identifier
+
 Playing Position	
 Start Time	
 Duration	
@@ -39,8 +42,7 @@ Accelerations Zone 3
 Decelerations Zone 1	
 Decelerations Zone 2	
 
-Data files
-WF01_0001_1000.csv (942 rows, 27 players)
+
 Decelerations Zone 3	
 New Bodyload	
 Impacts Zone 1	
@@ -74,3 +76,7 @@ Sprint Total Distance
 Work Rate Effort Count	
 Work Rate Effort 
 Duration Work Rate Effort Distance
+
+Data files
+
+WF01_0001_1000.csv (942 rows, 27 players)
