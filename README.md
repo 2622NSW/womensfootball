@@ -1,6 +1,6 @@
 Women's Football
 ================
-This repository shares GPS and heart rate data files collected from training and competition for a women's football team.
+This repository shares GPS and heart rate data files collected from training and competition for a women's football team in the 2016-2017 season.
 
 There are 63 columns in each of the data files. Players are identified with an athlete identifier.
 
