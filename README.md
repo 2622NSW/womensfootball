@@ -20,7 +20,7 @@ Duration
 
 Participation	
 
-Distance Covered(m)	
+Distance Covered(m)	all distances are in metres.
 
 Distance Zone 1	
 
@@ -34,9 +34,9 @@ Distance Zone 5
 
 Distance Zone 6	
 
-Max Speed	
+Max Speed	is measured in km/h
 
-Avg Speed	
+Avg Speed	is measured in km/h
 
 Max HR	
 
@@ -44,33 +44,33 @@ Avg HR
 
 HR Exertion
 
-Time in HR Zone 1	
+Time in HR Zone 1	(40% of Max Heart Rate)
 
-Time in HR Zone 2	
+Time in HR Zone 2	(50% of Max Heart Rate)
 
-Time in HR Zone 3	
+Time in HR Zone 3	(60% of Max Heart Rate)
 
-Time in HR Zone 4	
+Time in HR Zone 4	(70% of Max Heart Rate)
 
-Time in HR Zone 5	
+Time in HR Zone 5	(80% of Max Heart Rate)
 
-Time in HR Zone 6	
+Time in HR Zone 6	(90% and above of Max Heart Rate)
 
 Speed Exertion	
 
-Sprint Count	
+Sprint Count	(number of sprints that achieved an acceleration of 2m/s/s or above)
 
-Accelerations Zone 1	
+Accelerations Zone 1	(acceleration counts 1-2m/s/s)
 
-Accelerations Zone 2	
+Accelerations Zone 2	(acceleration counts 2m-3m/s/s)
 
-Accelerations Zone 3	
+Accelerations Zone 3	(acceleration counts >3m/s/s)
 
-Decelerations Zone 1	
+Decelerations Zone 1	(deceleration counts 1-2m/s/s)
 
-Decelerations Zone 2	
+Decelerations Zone 2	(deceleration counts 2-3m/s/s)
 
-Decelerations Zone 3	
+Decelerations Zone 3	(deceleration counts >3m/s/s)
 
 New Bodyload	
 
@@ -124,9 +124,9 @@ Metabolic Load Distance Zone 5
 
 Metabolic Load (absolute)	
 
-Repeat Sprints	
+Repeat Sprints	(number of times 2 or more consecutive sprints are achieved with less than 20 seconds between each)
 
-Sprint Max Acceleration	
+Sprint Max Acceleration	(measured in m/s/s)
 
 Sprint Total Distance	
 
